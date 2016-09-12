@@ -5,7 +5,7 @@ By riusksk(@riusksk)
 
 This book is suitable for students of computer science related, somebody worked in information security, software security and mobile security related areas, software developer and hackers to read.
 
-## Directory
+## Table of Contents
 ### Chapter 1: Basic Knowledge 
 1.1 The Concepts of Vulnerability  
 1.1.1	What is The Vulnerability   
