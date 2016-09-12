@@ -265,6 +265,6 @@ This book is suitable for students of computer science related, somebody worked 
 ### Chapter 12: The Development Trend of Software Vulnerabilities 
 12.1 New Challenges in The Field of Software Vulnerabilities  
 12.2 The Development Trend of Mobile Terminal Vulnerability  
-12.3 The Development Trend of Cloud Computing Platform  
+12.3 The Development Trend of Cloud Computing Platform Vulnerability  
 12.4 The Development Trend of IoT Vulnerability  
 12.5 Summary  
