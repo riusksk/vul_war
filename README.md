@@ -4,3 +4,7 @@
 #### 2、[百度云下载](http://pan.baidu.com/s/1pKBjEiB)
 
 ![](http://ww2.sinaimg.cn/large/7503f661gw1f5r5youazhj20tl0igtei.jpg)
+
+#### 对于Adobe软件漏洞，如果资料包里面未提供相应版本的漏洞程序，可以尝试从以下地址去查找：
+#### 1、Adobe Flash Player：https://helpx.adobe.com/flash-player/kb/archived-flash-player-versions.html
+#### 2、Adobe Reader：ftp://ftp.adobe.com/pub/adobe/reader/win/
